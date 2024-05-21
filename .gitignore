@@ -1,1 +1,4 @@
 /node_modules
+.vscode/settings.json
+.yarn/install-state.gz
+.DS_Store
